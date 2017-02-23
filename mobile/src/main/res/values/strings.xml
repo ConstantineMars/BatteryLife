@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BatteryLife</string>
+    <string name="no_measurements_avaiable">No measurements avaiable</string>
+    <string name="happy">Happy</string>
+    <string name="disappointed">Disappointed</string>
+    <string name="no_statistics_available">No statistics available</string>
+</resources>
