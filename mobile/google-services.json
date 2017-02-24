@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "560118864658",
+    "firebase_url": "https://batterylife-c1703.firebaseio.com",
+    "project_id": "batterylife-c1703",
+    "storage_bucket": "batterylife-c1703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560118864658:android:2f20c24ae8b9a817",
+        "android_client_info": {
+          "package_name": "cmars.batterylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560118864658-inpqi3dg2ch81fmsh9lag9kbm210n7tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHevIcVJYxc3OeRdLOcDvFFtiXDK2uaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
